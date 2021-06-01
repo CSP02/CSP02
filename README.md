@@ -7,7 +7,8 @@
 Here are some ideas to get you started:
 -->
 ## Hi I am Chandra Sekhar Pilla.
-
+## My stats:
+[Chandra Sekhar Pilla](https://github-readme-stats.vercel.app/api?username=chandra-sekhar-pilla)
 
 - 🔭 I'm currently working on Discord bot made with JavaScript.  
 
