@@ -8,14 +8,4 @@ Here are some ideas to get you started:
 -->
 ## Hi I am Chandra Sekhar Pilla.
 ## My stats:
-![Chandrasekhar Pilla:](https://geet-resume.herokuapp.com/users/Chandra-sekhar-pilla)
-
-- 🔭 I'm currently working on Discord bot made with JavaScript.  
-
-- 👯 I'm looking to collaborate on My discord bot made using JavaScript. 
-
-- 📫 How to reach me: You can join my discord server https://discord.gg/6Mcy5NpSpH 
-
-- I also do game-dev (using unity) and 3d modelling (using blender).
-
-- Mostly iam an astrophile
+![chandra-sekhar-pilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=chandra-sekhar-pilla)](https://github.com/chandra-sekhar-pilla/github-readme-stats)
