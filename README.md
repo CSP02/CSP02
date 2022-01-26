@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 -->
 ## Hi I am Chandra Sekhar Pilla.
 ## My stats:
-![Chandrasekhar Pilla:](https://github-readme-stats.vercel.app/api?username=chandra-sekhar-pilla)
+![Chandrasekhar Pilla:](https://geet-resume.herokuapp.com/users/Chandra-sekhar-pilla)
 
 - 🔭 I'm currently working on Discord bot made with JavaScript.  
 
