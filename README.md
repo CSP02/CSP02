@@ -6,4 +6,5 @@
 <h1>Most used languages</h1>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandra-sekhar-pilla&langs_count=8&theme=monokai"/>
 <br>
+<h1>Contributions</h1>
 <img src="https://activity-graph.herokuapp.com/graph?username=chandra-sekhar-pilla&theme=xcode"/>
