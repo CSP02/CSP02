@@ -8,3 +8,4 @@
 <br>
 <h1>Contributions</h1>
 <img src="https://activity-graph.herokuapp.com/graph?username=chandra-sekhar-pilla&theme=xcode"/>
+<img src="https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff"/>
